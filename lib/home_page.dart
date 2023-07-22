@@ -21,6 +21,12 @@ class _HomePageState extends State<HomePage> {
       body: Column(
         children: [
           HabitTile(),
+          HabitTile(),
+          HabitTile(),
+          HabitTile(),
+          HabitTile(),
+          HabitTile(),
+          HabitTile(),
         ],
       ),
     );
